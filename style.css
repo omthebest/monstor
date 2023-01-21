@@ -1,0 +1,37 @@
+body{
+    background:rgb(7, 174, 107);
+    font-family: 'Prompt', sans-serif;
+}
+
+.header_div{
+    background:whitesmoke;
+    color: blue;
+}
+
+.header_div h3{
+    font-family: 'Rubik Bubbles', cursive;
+    color: rgb(110, 5, 92);
+    letter-spacing: 2px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Rubik Bubbles', cursive;
+    margin-top: 30px;  
+    width: 130px; 
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position:fixed;
+    color: #047878;
+    background-color: rgb(16, 194, 7);
+    font-size:19px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px cornflowerblue;
+    width:100%;
+    bottom:0;
+}
